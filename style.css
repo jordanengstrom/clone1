@@ -1,0 +1,80 @@
+.image{
+    background: url("https://studybreaks.com/wp-content/uploads/2017/11/write.jpg") center center;
+    background-size: 100%
+}
+
+
+.first-text{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.btn-info{
+    font-size: small;
+    color: #fff;
+}
+
+.icons{
+    text-align: center;
+    background-color: #f25a2b;
+    height: 400px;
+}
+
+.fa-upper{
+    color: #000;
+    height: 50px;
+    width: 50px;
+    padding-bottom: 5px;
+}
+
+
+
+.subscription{
+    text-align: center;
+    height: 350px;
+    padding: 50px;
+}
+
+.inner-mail{
+    padding-top: 50px;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #8064A2;
+    border-color: #8064A2;
+}
+
+.dark-text{
+    color: #000;
+}
+
+.footer{
+    height: 150px;
+    background-color: #000;
+
+}
+
+#map{
+    height: 400px;
+}
+
+.fa-2x{
+    margin: 10px;
+    color: #fff;
+}
+
+.lower-buttons{
+    padding: 40px;
+}
+
+.lower-text{
+    padding-left: 250px;
+    color: #fff;
+}
